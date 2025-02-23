@@ -313,3 +313,36 @@ ls -a
 cat .git
 ls .git
 git push origin main
+git add .
+ls
+git push origin main
+git commit -m "first dotfiles commit"
+git config --global user.email "scollins01001011@gmail.com"
+git config --global user.name "Sardor"
+git commit -m "first dotfiles commit"
+git push origin main
+git show-ref
+git push origin HEAD:main
+git pull
+ls
+cd .config/
+ls
+git push origin HEAD:main
+git push origin HEAD:master
+clear
+git pull
+cd
+ls
+nvim .secret
+clear
+.config/
+git merge
+git merge main
+git merge origin/main
+git merge origin/main 
+git merge help
+git merge --help
+git checkout main
+vim .gitignore
+git checkout main
+git commit -m "dotfiles commit"
