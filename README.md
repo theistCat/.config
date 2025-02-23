@@ -4,6 +4,6 @@ my dotfiles
 [dependencies]<Br>
 //...
 
-```git clone https://github.com/theistCat/.config.git```
+```git clone https://github.com/theistCat/dotfiles.git```
 
-```mv ~/dotfiles/.config/* ~/.config```
+```mv ~/dotfiles/* ~/.config```
