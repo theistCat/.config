@@ -346,3 +346,39 @@ git checkout main
 vim .gitignore
 git checkout main
 git commit -m "dotfiles commit"
+git add .
+git commit -m "dotfiles commit"
+git checkout main
+btop
+clear
+cd .config/
+.git/
+nvim HEAD
+cd
+git commit -m "dotfiles commit"
+.secret
+cat .secret
+git push origin main
+git pull
+git push origin main
+git pull
+git pull main
+git pull https://github.com/theistCat/dotfiles.git main
+git config pull.rebase false
+git pull https://github.com/theistCat/dotfiles.git main
+git pull https://github.com/theistCat/dotfiles.git HEAD:main
+git pull https://github.com/theistCat/dotfiles.git main
+git pull https://github.com/theistCat/dotfiles.git
+git pull https://github.com/theistCat/dotfiles.git HEAD:main
+git config --ff-only
+git config pull.ff only
+git pull https://github.com/theistCat/dotfiles.git HEAD:main
+git pull https://github.com/theistCat/dotfiles.git
+git rebase
+git rebase https://github.com/theistCat/dotfiles.git
+git merge --no-ff https://github.com/theistCat/dotfiles.git
+git merge --no-ff master
+git merge master
+git merge
+git
+git status
