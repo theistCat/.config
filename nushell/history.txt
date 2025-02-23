@@ -1,0 +1,315 @@
+sudo rm -r *
+ls
+ls -a
+.config
+ls
+clear
+exit
+nu
+exit
+clear
+vim .config/nushell/env.nu
+exit
+clear
+c
+clear
+nmap localhost
+nmap
+sudo pacman -S nmap
+nmap -h
+nmap -v -sn 10.12.0.1 10.12.1.1
+nmap -v -iR 10.12.0.1
+nmap -v -iR 10000 -Pn -p 80
+nmap -v -iR 10000 -Pn -p 8080
+nmap -v -iR 10000 -Pn -p 443
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+sl
+clear
+sudo pacman -S yazi
+yazi
+clear
+exit
+yazi
+sudo pacman -S 7z 7zz
+sudo pacman -S 
+clear
+:clear
+c
+clear
+ls
+ls | grep Desktop/
+ls
+ls | where name == wallpapers/wallpaper.png
+ls | where name == wallpaper
+ls | where name == wallpapers
+clear
+vim
+nvim
+clear
+vim .config/starship/starship.toml
+vim starship.toml
+mkdir .config/starship
+cp starship.toml .config/starship/
+exit
+clear
+ls
+clear
+ls
+cd Downloads/
+yaz
+yazi
+clear
+ls
+cd
+clear
+EXIT
+exit
+clear
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+git clone https://github.com/NvChad/starter ~/.config/nvim and nvim
+git clone https://github.com/NvChad/starter ~/.config/nvim nvim
+git clone https://github.com/NvChad/starter && ~/.config/nvim && nvim
+git clone https://github.com/NvChad/starter  ~/.config/nvim ; nvim
+nvim
+clear
+nvim
+python3 hell.py
+clear
+exit
+deactivate
+clear
+source ls
+deactivate
+ls -a
+deactivate
+clear
+source deactivate
+clear
+exit
+clear
+bash
+cler
+clear
+cd /bin/
+cd  python
+cd python
+ls -l  python
+python deactivate
+python 
+clear
+ls
+ls -a
+exit
+conda -V
+clear
+cd .config/
+ls
+cd kitty/
+ls
+cd ..
+ls
+cd nvim/
+ls
+nvim
+clear
+python3 hell.py
+cd
+python3 hell.py
+nvim
+clear
+vim hell.py
+clear
+nvim hell.py
+yazi
+clear
+exit
+btop
+clear
+exit
+clear
+exit
+clear
+sudo pacman -S Steam
+sudo pacman -S steam
+btop
+clear
+mkdir rust_learning
+cd rustlearning
+cd rust_learning/
+mkdir number_guessing_game
+cd number_guessing_game/
+cargo new guessing_game
+rustup default stable
+clear
+cd ..
+ls number_guessing_game/
+rm -r number_guessing_game/
+cargo new guessing_game
+clear
+cd guessing_game/
+ls
+clear
+ls
+clear
+ls src/
+clear
+cd rust_learning/guessing_game/
+ls
+clear
+nvim Cargo.toml
+cargo run
+nvim Cargo.toml
+cargo run
+nvim Cargo.toml
+cargo run
+clear
+cargo run
+cargo fix --bin "guessing_game"
+cargo fix 
+cargo fix --allow-dirty
+cargo run
+clear
+vim Cargo.toml
+cargo run
+vim Cargo.toml
+cargo run
+clear
+cargo run
+clear
+cargo run
+clear
+cargo run
+clear
+cargo run
+clear
+cargo run
+clear
+cargo run
+clear
+cargo run
+clear
+cargo run
+clear
+cargo run
+clear
+cargo run
+clear
+cargo run
+clear
+cargo run
+clear
+cargo-fmt src/main.rs
+cargo-fmt --help
+cargo-fmt --all
+nvim src/main.rs
+clear
+cargo-clippy 
+cargo-clippy -h
+clear
+nvim
+cd
+clear
+cat .config/nvim/init.lua
+sudo pacman -R steam
+clear
+ls
+la
+ls -a
+cd
+ls
+yazi
+c
+clear
+Trash
+Trash/
+clear
+yazi
+clear
+cd
+clear
+rustc --version --verbose
+ls
+mkdir rust-os-mini
+rm -r rust-os-mini/
+clear
+cargo new rust-os-mini --bin
+cd rust-os-mini/
+clear
+cd rust-os-mini/
+ls
+clear
+vim Cargo.toml
+rustc --version --verbose
+rustup target add aarch64-unknown-linux-gnu
+cargo build --target aarch64-unknown-linux-gnu
+cargo build 
+vim src/main.rs
+cargo build
+sudo pacman -S c
+sudo pacman -S cc
+cd
+rm -r rust-os-mini/
+ls
+clear
+ls
+cd
+clear
+neofetch
+clear
+nvim
+clear
+exit
+btop
+exit
+clear
+clear
+neofetch
+neofetch
+cargo install grink
+clear
+vim text.md
+cargo grink text.md
+cargo run grink text.md
+grink text.md
+ls
+ls -a
+.cargo/
+ls
+bin
+bin/
+ls
+grid 
+grink
+cat grink
+ls
+clear
+cd
+clear
+cargo -h
+clear
+neofetch
+clear
+cd .config/
+git remote add origin https://github.com/theistCat/.config.git
+git remote add origin https://github.com/theistCat/dotfiles.git
+git login
+git --help
+git remote
+git remote -v
+git init
+git remote add origin https://github.com/theistCat/dotfiles.git
+clear
+git remote -v
+git push origin main
+ls
+ls -a
+cat .git
+ls .git
+git push origin main
